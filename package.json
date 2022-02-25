@@ -1,10 +1,10 @@
 {
-  "name": "railscast-theme",
+  "name": "railscast-theme-markup",
   "theme": "syntax",
   "version": "0.4.0",
   "private": false,
-  "description": "Atom syntax theme based on Ryan Bates (@rbates) RailsCasts TextMate theme",
-  "repository": "https://github.com/ericfreese/atom-railscast-theme",
+  "description": "Atom syntax theme based on ericfreese's conversion of Ryan Bates (@rbates) RailsCasts TextMate theme. This fork adds support for language-markdown.",
+  "repository": "https://github.com/pbsds/atom-railscast-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
